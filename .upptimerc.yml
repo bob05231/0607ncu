@@ -3,14 +3,19 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: github
+    url: https://github.com/
+  - name: ncu ee-class
+    url: https://ncueeclass.ncu.edu.tw/
+  - name: bahmut
+    url: https://www.gamer.com.tw/
+  - name: youtube
+    url: https://www.youtube.com/
+  - name: twitter
+    url: https://twitter.com/home
+  - name: none
+    url: https://1234567dfghjkvbe
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
