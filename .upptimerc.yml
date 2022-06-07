@@ -13,8 +13,6 @@ sites:
     url: https://www.youtube.com/
   - name: twitter
     url: https://twitter.com/home
-  - name: none
-    url: https://1234567dfghjkvbe
     
 
 status-website:
