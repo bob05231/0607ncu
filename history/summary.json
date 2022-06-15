@@ -40,18 +40,20 @@
     "url": "https://www.gamer.com.tw/",
     "icon": "https://favicons.githubusercontent.com/www.gamer.com.tw",
     "slug": "bahmut",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1129,
-    "timeDay": 929,
-    "timeWeek": 1100,
-    "timeMonth": 1129,
-    "timeYear": 1129,
-    "dailyMinutesDown": {}
+    "time": 1048,
+    "timeDay": 588,
+    "timeWeek": 993,
+    "timeMonth": 1048,
+    "timeYear": 1048,
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "youtube",
