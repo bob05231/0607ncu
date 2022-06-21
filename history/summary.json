@@ -78,17 +78,19 @@
     "url": "https://twitter.com/home",
     "icon": "https://favicons.githubusercontent.com/twitter.com",
     "slug": "twitter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 226,
-    "timeWeek": 408,
-    "timeMonth": 375,
-    "timeYear": 375,
-    "dailyMinutesDown": {}
+    "time": 360,
+    "timeDay": 170,
+    "timeWeek": 371,
+    "timeMonth": 360,
+    "timeYear": 360,
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   }
 ]
